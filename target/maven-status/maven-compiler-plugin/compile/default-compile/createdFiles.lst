@@ -1,0 +1,10 @@
+com\toyrobot\Utils\CompassDirection.class
+com\toy\robot\toyRobotHandler.class
+com\toyrobot\Utils\Position.class
+com\toyrobot\Utils\TableTop.class
+com\toy\robot\RunToyRobot.class
+com\toy\robot\RobotException.class
+com\toy\robot\toyRobotHandler$1.class
+com\toyrobot\Utils\RobotMovementHandler.class
+com\toyrobot\Utils\Position$1.class
+com\toyrobot\Utils\Command.class
